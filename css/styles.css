@@ -1,0 +1,39 @@
+html {
+  background: blanchedalmond;
+}
+
+h1 {
+  font-family: "Futura", sans-serif;
+  font-weight: 96px;
+  text-align: center;
+}
+
+h2 {
+  font-family: "Helvetica", serif;
+  font-weight: 42px;
+  text-align: center;
+}
+
+div {
+  float: left;
+  display: block;
+}
+
+.lbb {
+  background: thistle;
+  text-color: green;
+}
+
+.lbb img {
+  /* width: 600px;
+  height: 300px; */
+  max-width: 100%;
+}
+
+.troyd, .white-owl {
+  margin-left: 25px;
+}
+
+.white-owl {
+  background:chartreuse;
+}
