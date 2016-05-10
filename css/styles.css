@@ -17,6 +17,8 @@ h2 {
 div {
   float: left;
   display: block;
+  margin-top: 100px;
+  margin-bottom: 50px;
 }
 
 .lbb {
@@ -36,4 +38,9 @@ div {
 
 .white-owl {
   background:chartreuse;
+  float: left;
+}
+
+.troyd {
+  background: turquoise;
 }
